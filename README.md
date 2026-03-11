@@ -22,7 +22,7 @@ This project performs end-to-end data analysis on IPL match data using Python, S
 - Match Count and Total Runs
 
 ## Dashboard Preview
-![Dashboard](screenshot/ddfc9ed5-dd80-44b7-bd6d-c54eb9dd85f1.png)
+![Dashboard](ddfc9ed5-dd80-44b7-bd6d-c54eb9dd85f1.png)
 
 ## Dataset Note
 Due to GitHub file size limits, the full dataset is not included in this repository.
